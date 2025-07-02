@@ -1,5 +1,5 @@
 import turtle
-single_player_mode = False  # set to False for 2 players
+single_player_mode = False  # set to False for 2 players | set to True for 1 player
 
 # background
 bg = turtle.Screen()
