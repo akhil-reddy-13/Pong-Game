@@ -21,3 +21,5 @@ This is a simple Pong game I built using Python and the Turtle graphics library.
 - **P** → pause or unpause the game
 - **R** → restart the game
 - **Spacebar** → start the game
+
+---
